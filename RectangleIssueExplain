@@ -1,2 +1,3 @@
 W poleceniach należało wyznaczyć pole i obwód również dla prostokątów. Podane zostały jedynie koordynaty dwóch przeciwległych wierzchołków.
 Na podstawie takich danych można stworzyć wiele prostokątów, które będą miały tą samą przekątną z dwóch podanych przeciwległych wierzchołków.
+Pokazano to na obrazku rectangle.png.
